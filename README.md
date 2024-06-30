@@ -196,11 +196,11 @@ function AllowRunServiceBind.OnInvoke(args)
 
     CoreGui:SetCore("SendNotification", {
 
-        Title = "Script Fram Chest",
+        Title = "Script Fram Chest | By Meo Hub",
 
-        Text = "By: MeoZ",
+        Text = "By: Meo Hub",
 
-        Icon = "rbxthumb://type=Asset&id=17220568143&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=18268957241&w=150&h=150",
 
         Duration = math.huge,
 
@@ -248,9 +248,9 @@ CoreGui:SetCore("SendNotification", {
 
     Title = "Script Fram Chest",
 
-    Text = "By: MeoZ",
+    Text = "By: Meo Hub",
 
-    Icon = "rbxthumb://type=Asset&id=17220568143&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=18268957241&w=150&h=150",
 
     Duration = math.huge,
 
